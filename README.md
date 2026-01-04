@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Developer and AIML student with hands-on experience in MERN stack, Python, Power BI, FigmaFlutter, and Firebase. Seeking an opportunity to develop scalable web and mobile applications, apply machine learning concepts to real-world solutions, and contribute to <br>innovative projects while strengthening technical expertise..
+I am a Full Stack Developer and AIML student with hands-on experience in MERN stack, Python, Power BI, FigmaFlutter, and Firebase. Seeking an opportunity to develop scalable web and mobile applications, apply machine learning concepts to real-world solutions, and contribute to innovative projects while strengthening technical expertise..
 
 
 ## 🌐 Socials:
